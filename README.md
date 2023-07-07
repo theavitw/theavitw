@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avit_shah" target="blank" rel="noreferrer"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"  height="40" width="40" /></a>
+<a href="[https://twitter.com/avit_shah](https://twitter.com/Shah_Avit)" target="blank" rel="noreferrer"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"  height="40" width="40" /></a>
 
 <a href="https://linkedin.com/in/avit shah" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
 </p>
