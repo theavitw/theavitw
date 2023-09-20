@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avit Desai</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **React,ML**
+- 🌱 I’m currently learning *Backend Dvelopment , Node.js , REST , Python , ML**
 
 - 💬 Ask me about **web develpment,PHP,react,python,ML**
 
