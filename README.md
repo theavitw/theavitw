@@ -1,7 +1,7 @@
 ![image](https://github.com/theavitw/theavitw/assets/75948358/e2593dd8-5bae-44db-86ac-b03c36cef603)<h1 align="center">Hi 👋, I'm Avit Desai</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
- <img width="130" height="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19"></img>
-  <img width="150" height="150" src="https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp"></img>
+ <p><img width="150" height="150" align="left" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19"></img>
+  <img width="150" height="150" align="left" src="https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp"></img></p>
 <h3 align="left">Connect with me:</h3>
 - 🌱 I’m currently learning *Backend Dvelopment , Node.js , REST , Python , ML**
 
