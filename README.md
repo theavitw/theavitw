@@ -1,4 +1,4 @@
-<h1 align="center" background="blue" color="black">Hi 👋, I'm Avit Desai</h1>
+<h1 align="center" backgroundcolor="blue" color="black">Hi 👋, I'm Avit Desai</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <a href="https://www.holopin.io/@theavitw#"> <p><img width="150" height="150"
 src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19"></img>
