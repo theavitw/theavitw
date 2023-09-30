@@ -2,8 +2,7 @@
     <div> 
         <img src = "https://komarev.com/ghpvc/?username=theavitw"/>
     </div>
-    [![@theavitw's Holopin board](https://holopin.me/theavitw)](https://holopin.io/@theavitw)
-
+[![An image of @theavitw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theavitw)](https://holopin.io/@theavitw)
 <h3 align="center">A passionate Software Developer from India</h3>
 <a href="https://www.holopin.io/@theavitw#"> <p><img width="150" height="150"  color="black"
 src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19"></img>
