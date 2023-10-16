@@ -1,9 +1,13 @@
 <h1 align="center" backgroundcolor="blue">Hi 👋, I'm Avit Desai</h1>
  <div align="center" ><img src = "https://komarev.com/ghpvc/?username=theavitw"  width = "40"/></image>
 </div>
-
+- <br /> 
+- <br /> 
+- <br />
 [![An image of @theavitw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theavitw)](https://holopin.io/@theavitw)<h3 align="center">A passionate Software Developer from India</h3>
-
+- <br /> 
+- <br /> 
+- <br />
 <h3 align="left">Connect with me:</h3>
 - 🌱 I’m currently learning *Backend Dvelopment , Node.js , REST , Python , ML**
 
