@@ -1,5 +1,5 @@
 <h1 align="center" backgroundcolor="blue">Hi 👋, I'm Avit Desai</h1>
- <div align="center" width = "100" heigth ="100"><img src = "https://komarev.com/ghpvc/?username=theavitw"  width = "100" heigth ="100"/></image>
+ <div align="center" width = "100" heigth ="100"><img src = "https://komarev.com/ghpvc/?username=theavitw"  heigth ="100" width = "100"/></image>
 </div>
 <br /> 
 <br /> 
