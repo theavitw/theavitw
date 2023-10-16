@@ -1,13 +1,11 @@
 <h1 align="center" backgroundcolor="blue">Hi 👋, I'm Avit Desai</h1>
  <div align="center" ><img src = "https://komarev.com/ghpvc/?username=theavitw"  width = "40"/></image>
 </div>
-- <br /> 
-- <br /> 
-- <br />
+<br /> 
+<br /> 
 [![An image of @theavitw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theavitw)](https://holopin.io/@theavitw)<h3 align="center">A passionate Software Developer from India</h3>
-- <br /> 
-- <br /> 
-- <br />
+<br /> 
+<br /> 
 <h3 align="left">Connect with me:</h3>
 - 🌱 I’m currently learning *Backend Dvelopment , Node.js , REST , Python , ML**
 
@@ -17,9 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sD3rvz9CRnBGc0qlDJkMUg30esj1QD31/view?usp=share_link](https://drive.google.com/file/d/1sD3rvz9CRnBGc0qlDJkMUg30esj1QD31/view?usp=share_link)
 
-- <br /> 
-- <br /> 
-- <br /> 
+<br /> 
+<br />
   <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right"></img>
  
 <p align="left">
