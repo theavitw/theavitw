@@ -3,7 +3,8 @@
 </div>
 <br /> 
 <br /> 
-[![An image of @theavitw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theavitw)](https://holopin.io/@theavitw)<h3 align="center">A passionate Software Developer from India</h3>
+[![@theavitw's Holopin board](https://holopin.me/theavitw)](https://holopin.io/@theavitw)
+<h3 align="center">A passionate Software Developer from India</h3>
 <br /> 
 <br /> 
 <h3 align="left">Connect with me:</h3>
