@@ -1,7 +1,8 @@
 <h1 align="center" backgroundcolor="blue">Hi 👋, I'm Avit Desai</h1>
  <div align="center" width = "100" heigth ="100"><img src = "https://komarev.com/ghpvc/?username=theavitw"  heigth ="100" width = "100"/>
+  <h3 align="center"> Hacktoberfest Badges </h3>
+
 </div>
-<h3 align="center"> Hacktoberfest Badges </h3>
 
 [![@theavitw's Holopin board](https://holopin.me/theavitw)](https://holopin.io/@theavitw)
 <h3 align="center">A passionate Software Developer from India</h3>
