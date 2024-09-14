@@ -9,7 +9,7 @@
 
 <br /> 
 <h3 align="left">Connect with me:</h3>
-- 🌱 I’m currently learning *Backend Dvelopment , Node.js , REST , Python , ML**
+- 🌱 I’m currently in *Backend Development ,Next.js , Node.js , REST , Python , ML**
 
 - 💬 Ask me about **web develpment,PHP,react,python,ML**
 
