@@ -1,4 +1,4 @@
-<h1 align="center" backgroundcolor="blue">Hi 👋, I'm Avit Desai</h1>
+<h1 align="center" backgroundcolor="blue">Hi 👋, I'm Avit Shah</h1>
  <div align="center" width = "100" heigth ="100"><img src = "https://komarev.com/ghpvc/?username=theavitw"  heigth ="100" width = "100"/>
   <h3 align="center"> Hacktoberfest Badges </h3>
 
