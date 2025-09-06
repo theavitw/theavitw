@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/Shah_Avit" target="blank" rel="noreferrer"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"  height="40" width="40" /></a>
 
-<a href="https://twitter.com/Shah_Avit" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/avitdesai/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
