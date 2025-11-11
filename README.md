@@ -9,9 +9,9 @@
 
 <br /> 
 <h3 align="left">Connect with me:</h3>
-- 🌱 I’m currently in *Fullstack Development*
+- 🌱 I’m currently in Fullstack Development
 
-- 💬 Ask me about **web develpment,PHP,react,python,ML**
+- 💬 Ask me about ML, AI, RAG, DEEP LEARNING, MVPs
 
 - 📫 How to reach me **avitdesai6145@gmail.com**
 <br />
